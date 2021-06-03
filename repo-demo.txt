@@ -1,5 +1,5 @@
 demo menggunakan github
 
 List
-- belajar java
 - belajar php
+- belajar kotlin
